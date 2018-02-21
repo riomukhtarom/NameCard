@@ -100,19 +100,6 @@
                 android:hint="Instagram" />
         </android.support.design.widget.TextInputLayout>
 
-        <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:layout_marginBottom="8dp">
-
-            <EditText android:id="@+id/input_twitter"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:inputType="textCapWords"
-                android:hint="Twitter" />
-        </android.support.design.widget.TextInputLayout>
-
         <Button
             android:id="@+id/btn_makeNameCard"
             android:layout_width="wrap_content"
